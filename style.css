@@ -48,6 +48,11 @@
 			border-radius: 30px;
 			padding: 20px 60px;
 		}
+
+	.card-title {
+			font-weight: bold;
+			
+		}
         
         #contact > div {
             background-color: white;
